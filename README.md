@@ -2,7 +2,7 @@
 SETaP W4 Practical
 
 
-How would you like the app to handle updates with new stories?
+How often do you want the app to update with new stories?
 
 What kinds of accessibility or usability features would make the app easier and more enjoyable to use?
 
