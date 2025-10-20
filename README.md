@@ -17,3 +17,8 @@ How would you like users to be able to organise or sort the news they see?
 Should users be able to save or bookmark articles for later reading?
 
 How should the app handle articles that users have already read to make the experience better?
+
+
+Requriements:
+Private Notes
+Filter Articles by preference
